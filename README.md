@@ -129,7 +129,7 @@ Go to the original repository on GitHub and click the "New Pull Request" button.
 
 **Veera Venkata Karthik Barrekala**
 
-- **LinkedIn**: [Veera Venkata Karthik Barrekala](https://www.linkedin.com/in/your-linkedin-profile/)
+- **LinkedIn**: [Veera Venkata Karthik Barrekala](https://www.linkedin.com/in/barrenkala-veera-venkata-karthik-b58b9a285/)
 
 Feel free to connect with me on LinkedIn for any queries or further collaboration!
 
