@@ -1,0 +1,9 @@
+openai-whisper
+sounddevice
+numpy
+wavio
+webrtcvad
+huggingface_hub
+requests
+spacy
+edge-tts
