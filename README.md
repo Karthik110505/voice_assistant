@@ -50,7 +50,7 @@ Follow these steps to set up the project on your local machine:
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/VeeraVenkataKarthikBarrekala/voice_assistant.git
+git clone https://github.com/Karthik110505/voice_assistant.git
 cd voice_assistant
 ```
 
